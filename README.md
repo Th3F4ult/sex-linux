@@ -31,5 +31,5 @@ Sex linux is **THE** last Linux program you will ever need
 - Install on /bin, /sbin/, /usr/bin/, /usr/local/bin and /dev/your/mother (Very important) (doas (or sudo if you're cringe) mv a.out /usr/bin/sex)
 - **Done**
 ## Auto (Make)
-- Use the make command (make)
+- Use the make command (doas make)
 - **Done**
