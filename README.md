@@ -23,6 +23,15 @@ Sex linux is **THE** last Linux program you will ever need
 - Sex
 - Proving your friends that you have Sex (Binary installed)
 
+# FAQ
+
+## Why?
+- Why not?
+
+## Will this compile under Mac OS, Windows, BSD, Plan69 or whatever the fuck?
+- Don’t care didn’t ask+ratio+skill issue+cope+did your mom+didn’t cry+that’s racist+literal trash+get good+cringe+die
+
+
 # INSTALL
 
 - Clone the repository using git, the desktop app, manually downloading all the files (View raw - CTRL-S) or plugging a USB drive up Github's Butt
